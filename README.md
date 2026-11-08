@@ -14,6 +14,35 @@ You will need your original Need for Speed II SE game CD or ISO image.
 4. Extract the Enhanced release files into your game’s installation folder, replacing files when prompted.
 5. Run Launcher_NFSIISE.exe, choose your settings and click Play.
 Note: Enhanced scenery distance can cause some objects to appear or disappear unexpectedly. Select Original (100%) if you encounter these visual issues.
+
+What works:
+
+    Game controllers (reconnected game controllers should be the same),
+    Force Feedback (tested on Linux),
+    TCP and UDP connection,
+    Serial port connection,
+    Brightness,
+    Sound.
+
+What does not work:
+
+    Modem connection (it will never work again, this feature has been removed from assembly code),
+
+Function keys in-game
+
+    F1 - toggle rain
+    F2 - car detail
+    F3 - view distance
+    F4 - toggle horizon
+    F5 - toggle HUD (player 1)
+    F6 - toggle HUD (player 2)
+    F7 - toggle mirror
+    F8 - toggle music
+    F9 - toggle sound effects
+    F10 - brightness
+    F11 - reset car (player 1)
+    F12 - reset car (player 2)
+
 Credits & Thanks
 - [zaps166 — for the NFSIISE project](https://github.com/zaps166/NFSIISE), the foundation of this Enhanced version.
 - Malte / RePlaying.de — special thanks for creating NFS II SE Installer for Windows x64 v3.1, which simplifies installation on 64-bit Windows.
