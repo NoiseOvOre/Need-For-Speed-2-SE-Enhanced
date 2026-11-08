@@ -17,4 +17,3 @@ Note: Enhanced scenery distance can cause some objects to appear or disappear un
 Credits & Thanks
 - [zaps166 — for the NFSIISE project](https://github.com/zaps166/NFSIISE), the foundation of this Enhanced version.
 - Malte / RePlaying.de — special thanks for creating NFS II SE Installer for Windows x64 v3.1, which simplifies installation on 64-bit Windows.
-- NoiseOvOre — Enhanced modifications and launcher.
